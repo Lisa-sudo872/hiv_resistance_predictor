@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+.env
+data/*.db
+auth/users.json
+data/logs/
+data/predictions/
+data/sequences/
