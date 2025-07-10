@@ -52,5 +52,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project does not currently have a specified license. Please check back for updates.
 
 ## Contact
-For any questions or feedback, please reach out to [lisa.mhlanga@students.uz.ac.zw
+For any questions or feedback, please reach out to [lisa.mhlanga@students.uz.ac.zw]
 
